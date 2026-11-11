@@ -1,117 +1,91 @@
+# Hi, I'm Palraj Govintharasu 👋
 
-<h1 align="center">Hi, I'm Palraj Govintharasu 👋</h1>
+### Full Stack Developer | AI Application Developer
 
-<h3 align="center">
-Full Stack Developer | AI Application Developer
-</h3>
+I build modern web applications, backend services, dashboards, and AI-powered business solutions.
 
-<p align="center">
-Building modern web applications, backend systems
-and AI-powered business solutions.
-</p>
+I have 4 years of professional full-stack development experience, working across frontend engineering, APIs, databases, and AI integrations.
 
----
-
-## About Me
-
-I'm a Full Stack Developer with 4 years of experience
-building scalable web applications, dashboards,
-backend services and AI-powered applications.
-
-I enjoy transforming business requirements into
-practical, reliable software solutions.
-
-- 💻 Full Stack Web Development
-- ⚛️ React.js & Next.js
-- 🐍 Python & FastAPI
-- 🤖 LLM Integration & RAG
-- 🗄️ Database Design & REST APIs
-- 🤝 Open to freelance projects and collaborations
+- ⚛️ **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, Python, FastAPI
+- 🗄️ **Databases:** PostgreSQL, MySQL, Redis
+- 🤖 **AI:** LLM integration, RAG, embeddings, vector search
+- 🤝 **Freelance services:** Business websites, full-stack applications, dashboards, API integrations, AI features
 
 ---
 
 ## Services
 
-- Business websites and landing pages
-- Custom full-stack web applications
-- Admin dashboards and SaaS applications
-- REST API development and integrations
-- AI chatbot and LLM integrations
-- RAG-based knowledge assistants
+| Service | What I can build |
+| --- | --- |
+| **Business websites** | Responsive websites, landing pages, service and contact pages |
+| **Full-stack applications** | Custom web apps, admin dashboards, CRUD workflows and REST APIs |
+| **AI integrations** | LLM-powered chat experiences and document-based knowledge assistants |
+| **Backend development** | API design, database integration, integrations and bug fixes |
+
+For a project enquiry, send me a message through GitHub or open an issue in a relevant project repository.
 
 ---
 
-## Featured Projects
+## Featured projects
 
-### 1. Dynamic Portfolio Dashboard
+### 📊 Dynamic Portfolio Dashboard
 
-Full-stack investment dashboard featuring portfolio
-analytics, market data integration, sector summaries
-and optimized data tables.
+A full-stack investment dashboard for presenting portfolio holdings and market information, with sector summaries, interactive tables, data refresh, caching and error handling.
 
-**Tech:** Next.js, React, TypeScript, Node.js,
-TanStack Table, Yahoo Finance.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, TanStack Table, Yahoo Finance library.
 
-[View Project](https://github.com/palrajdev/dynamic-portfolio-dashboard)
+[View source code](https://github.com/palrajdev/dynamic-portfolio-dashboard)
 
-### 2. Next.js Admin Dashboard
+### 📈 Next.js Admin Dashboard
 
-Dashboard application featuring customer metrics,
-invoice management, CRUD workflows, search,
-pagination and revenue charts.
+An admin dashboard demonstrating Next.js App Router, PostgreSQL data access, server actions, invoice CRUD workflows, customer metrics, search, pagination and charts.
 
-**Tech:** Next.js 15, React 19, TypeScript,
-PostgreSQL, Tailwind CSS, Zod.
+**Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, PostgreSQL, Zod.
 
-[View Project](https://github.com/palrajdev/NextDashboard)
+[View source code](https://github.com/palrajdev/NextDashboard)
 
-### 3. Interactive Developer Portfolio
+### 🌐 Interactive Developer Portfolio
 
-Content-driven personal portfolio featuring
-project showcases and MDX-powered content.
+A content-driven personal portfolio built with Next.js and Once UI, using MDX for project and blog content.
 
-**Tech:** Next.js, React, Once UI, MDX.
+[View source code](https://github.com/palrajdev/interactive-portfolio) · [Live demo](https://interactive-portfolio-zeta.vercel.app/)
 
-[GitHub Repository](https://github.com/palrajdev/interactive-portfolio)
+### 🛍️ NeoMart — E-commerce Prototype
 
-[Live Demo](https://interactive-portfolio-zeta.vercel.app/)
+A work-in-progress storefront prototype with a Next.js frontend and an initial Express API foundation. Product data and cart interactions are currently demo-only.
+
+**Stack:** Next.js, React, TypeScript, HeroUI, Tailwind CSS, Node.js, Express.
+
+[View source code](https://github.com/palrajdev/NeoMart)
 
 ---
 
-## Technical Skills
+## Tech stack
 
-**Frontend**
-React.js, Next.js, TypeScript, JavaScript,
-Tailwind CSS, Material UI, ShadCN/UI
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · Shadcn UI
 
-**Backend**
-Node.js, Express.js, Python, FastAPI
+**Backend:** Node.js · Express.js · Python · FastAPI · REST APIs
 
-**Database**
-MySQL, PostgreSQL, Redis, pgvector
+**Data:** PostgreSQL · MySQL · Redis · pgvector
 
-**AI**
-LLM Integration, RAG, Embeddings,
-Vector Search, LangChain
+**AI:** LLM APIs · RAG · Embeddings · Vector search · LangChain
 
-**Tools**
-Git, GitHub, Docker, REST APIs
+**Tools:** Git · GitHub · Docker
 
 ---
 
-## Let's Connect
+## Let's work together
 
-I'm interested in working with startups,
-business owners and teams looking for
-reliable web and AI development solutions.
+Have an idea for a website, dashboard, API, or AI-powered feature?
 
-- GitHub: https://github.com/palrajdev
-- Portfolio: https://interactive-portfolio-zeta.vercel.app/
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+I'm interested in collaborating with founders, small businesses, and teams that need practical, well-built software.
 
-Have a project idea? Let's build something useful!
+- **GitHub:** [@palrajdev](https://github.com/palrajdev)
+- **Portfolio:** [View my portfolio](https://interactive-portfolio-zeta.vercel.app/)
 
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
+Feel free to explore my repositories and reach out about a project.
+
+---
+
+*Thanks for visiting my profile! ⭐*
